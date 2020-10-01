@@ -2,6 +2,7 @@ STW-Collection
 ==============
 
 Scrap The Web Collection; [blog](https://tapaswenipathak.wordpress.com/2014/09/05/scraping-with-scrapy-part-1/) [posts](https://tapaswenipathak.wordpress.com/2014/09/06/scraping-with-scrapy-part-2/).
+Learn how to use Python for scraping Reddit & e-commerce websites to collect data
 
 This repo contains Scrapy sample code to scrap the following kind of websites:
 
